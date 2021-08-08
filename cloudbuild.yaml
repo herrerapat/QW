@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-01-e99dc50cff18/locations/australia-southeast1/workerPools/POPOY'
+    name: 'projects/qwiklabs-gcp-01-e99dc50cff18/locations/europe-central2/workerPools/POPOY'
 
 
 
